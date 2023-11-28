@@ -11,6 +11,7 @@ import { Comp4Component } from './components/comp4/comp4.component';
 import { TopNavComponent } from './components/top-nav/top-nav.component';
 
 import { HomeComponent } from './components/home/home.component';
+import { MaterialModule } from './material/material.module';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,12 @@ import { HomeComponent } from './components/home/home.component';
     TopNavComponent,
     HomeComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule, BrowserAnimationsModule],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    MaterialModule,
+  ],
   providers: [],
   bootstrap: [AppComponent],
 })
