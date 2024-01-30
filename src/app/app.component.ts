@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, inject } from '@angular/core';
 import { fadeInOutAnimation } from './app.animations';
 import { ActivatedRoute, Router } from '@angular/router';
 import {
@@ -9,6 +9,25 @@ import {
   trigger,
 } from '@angular/animations';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
+import {
+  Observable,
+  catchError,
+  debounce,
+  debounceTime,
+  finalize,
+  map,
+  of,
+  switchMap,
+  tap,
+  throwError,
+} from 'rxjs';
+import { HttpClient } from '@angular/common/http';
+
+export interface ValidEsimPhone {
+  Manufacturer: string;
+  Model: string;
+  numberOfEsims: string;
+}
 
 // v1 Enter and Leave
 // const enterTransition = transition(':enter', [
@@ -44,31 +63,29 @@ const fadeInOut = trigger('fadeInOut', [
   // animations: [fadeInOut],
 })
 export class AppComponent implements OnInit {
-  title = 'AngularRouteAnimations';
-  isShown = false;
+  httpClient = inject(HttpClient);
+  phoneTypes$: Observable<ValidEsimPhone[]> = this.httpClient.get(
+    '../assets/esim.phones.json'
+  ) as Observable<ValidEsimPhone[]>;
 
-  formGroup: FormGroup = new FormGroup({
-    username: new FormControl('', Validators.required),
-  });
+  manufacturers$: Observable<string[]> = this.phoneTypes$.pipe(
+    map((esimPhones: ValidEsimPhone[]) => this.filterManufacturers(esimPhones))
+  );
 
-  constructor(
-    private router: Router,
-    private activatedRouter: ActivatedRoute
-  ) {}
-
-  fadeInOut() {
-    this.isShown = !this.isShown;
+  filterManufacturers(esimPhones: ValidEsimPhone[]): string[] {
+    const manufacturer: string[] = esimPhones
+      .map((esim) => esim.Manufacturer.trim())
+      .filter(
+        (value, index, current_value) => current_value.indexOf(value) === index
+      );
+    return manufacturer;
   }
 
-  onAnimationStart(event: any) {
-    console.log('Animation start');
-    console.log(event);
+  selectThing(val: any) {
+    console.log(val);
   }
 
-  onAnimationEnd(event: any) {
-    console.log('Animation end');
-    console.log(event);
-  }
+  constructor() {}
 
   ngOnInit() {}
 }

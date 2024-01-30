@@ -1,37 +1,19 @@
-<!-- <app-top-nav></app-top-nav> -->
-<!--
-<button>Back</button>
-<button>Next</button>
-<div [@fadeInOut]>
-  <router-outlet></router-outlet>
-</div> -->
+<!-- <ul>
+  <li *ngFor="let validEsim of phoneTypes$ | async">
+    {{ validEsim | json }}
+  </li>
+</ul> -->
 
-<button (click)="fadeInOut()">Click me! {{ isShown }}</button>
-<!-- v1 using :enter and :leave -->
-<!-- <p *ngIf="isShown" @fadeIn @fadeOut>This is a test</p> -->
+<mat-form-field>
+  <mat-label> Manufacturer </mat-label>
 
-<!-- v2 using state -->
-<!-- <p
-  [@fadeInOut]="isShown ? 'open' : 'closed'"
-  (@fadeInOut.start)="onAnimationStart($event)"
-  (@fadeInOut.done)="onAnimationEnd($event)"
->
-  This is v2
-</p> -->
-
-<!-- v3 using void -->
-<form>
-  <mat-form-field appearance="fill">
-    <mat-label>Fill form field</mat-label>
-    <input matInput placeholder="Placeholder" />
-    <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
-    <mat-hint>Hint</mat-hint>
-  </mat-form-field>
-  <mat-form-field appearance="fill">
-    <mat-label>Fill form field</mat-label>
-    <input matInput placeholder="Placeholder" />
-    <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
-    <mat-hint>Hint</mat-hint>
-  </mat-form-field>
-  <button mat-raised-button color="primary">BUTTON</button>
-</form>
+  <mat-select *ngIf="manufacturers$ | async as manufacturers">
+    <mat-option
+      *ngFor="let manufacturer of manufacturers"
+      [value]="manufacturer"
+      (change)="selectThing($event)"
+    >
+      {{ manufacturer }}
+    </mat-option>
+  </mat-select>
+</mat-form-field>

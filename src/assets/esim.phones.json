@@ -1,0 +1,697 @@
+[
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone XR",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone XS",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone XS Max",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 11",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 11 Pro",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 11 Pro Max",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone SE (2020)",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 12 Mini",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 12",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 12 Pro",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 12 Pro Max",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 13 mini",
+    "numberOfEsims": "20 "
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 13",
+    "numberOfEsims": "20 "
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 13 Pro",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 13 Pro Max ",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone SE (2022)",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 14",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 14 Plus",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 14 Pro",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 14 Pro Max",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 15",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 15 Plus",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 15 Pro",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPhone 15 Pro Max",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPad Pro (2018 and onwards)",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPad Air",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "iPad",
+    "numberOfEsims": "20"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "Watch series 3",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "Watch series 4",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "Watch series 5",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Apple",
+    "Model": "Watch series 6",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Apple ",
+    "Model": "Watch SE",
+    "numberOfEsims": "1 "
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 3",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 3a",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 4",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 4a",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 5",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 6",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 6a",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 6 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 7a",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 7",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 7 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 8",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel 8 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Google",
+    "Model": "Pixel Fold",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Huawei",
+    "Model": "P40",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Huawei",
+    "Model": "P40 Pro (not including the P40 Pro +)",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Huawei",
+    "Model": "Mate 40 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Razr 2019",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Razr 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Razr 40",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Razr 40 Ultra",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Razr+",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Edge+",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola ",
+    "Model": "Edge 40",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Edge 40 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "Edge 40 Neo",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "G52J 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "G52J 5G Ⅱ",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "G53J 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Motorola",
+    "Model": "G84",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Flip",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Flip 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Flip3 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Flip4",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Flip5 5G",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Fold",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Fold2 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Fold3 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Fold4",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Z Fold5 5G",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S20",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S20+ 5g",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S20 Ultra",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S20 Ultra 5G",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung ",
+    "Model": "Galaxy S21",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S21+ 5G",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S21 Ultra 5G",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S22",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S22+",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S22 Ultra",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy&nbsp;Note 20 Ultra 5G&nbsp;",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy Note 20",
+    "numberOfEsims": "5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S23",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S23+",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S23 Ultra",
+    "numberOfEsims": "+5"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy S23 FE*",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Samsung",
+    "Model": "Galaxy A54*",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Planet Computers",
+    "Model": "Gemini PDA",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Rakuten Mobile",
+    "Model": "Rakuten Mini",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Rakuten Mobile",
+    "Model": "Big-S",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Rakuten Mobile",
+    "Model": "Big",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Rakuten Mobile",
+    "Model": "Hand",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Rakuten Mobile",
+    "Model": "Hand 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo",
+    "Model": "Find N2 Flip",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo",
+    "Model": "Find X3 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo ",
+    "Model": "Reno 5 A",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo",
+    "Model": "Find X5",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo",
+    "Model": "Find X5 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo",
+    "Model": "A55s 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Oppo",
+    "Model": "Reno 6 Pro 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 10 III Lite&nbsp;",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 10 IV",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 10V",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 1 IV",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 5 IV",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 1 V",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Sony Xperia Ace III",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sony",
+    "Model": "Xperia 5 V",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Honor",
+    "Model": "Magic 4 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Honor",
+    "Model": "Magic 5 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Honor",
+    "Model": "90",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Xiaomi",
+    "Model": "12T Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Xiaomi",
+    "Model": "13",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Xiaomi",
+    "Model": "13 Lite",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Xiaomi",
+    "Model": "13 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Xiaomi",
+    "Model": "13T Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos Sense6s",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos sense 7",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos sense 7plus",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos Wish",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos wish 2 SHG08",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos wish3",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos Sense4 lite",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos zero 6",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Simple Sumaho6",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos R7",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos R8",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Sharp",
+    "Model": "Aquos R8 Pro",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "DOOGEE",
+    "Model": "V30",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "OnePLus",
+    "Model": "11",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "HAMMER",
+    "Model": "Blade 3",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "HAMMER",
+    "Model": "Explorer PRO",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "HAMMER",
+    "Model": "Blade 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Nokia",
+    "Model": "XR21",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Nokia",
+    "Model": "X30",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "Nokia",
+    "Model": "G60 5G",
+    "numberOfEsims": "1"
+  },
+  {
+    "Manufacturer": "myPhone",
+    "Model": "NOW eSIM",
+    "numberOfEsims": "1"
+  }
+]
